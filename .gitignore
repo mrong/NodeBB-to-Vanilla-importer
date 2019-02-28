@@ -1,0 +1,7 @@
+*.pyc
+.imdone
+.idea/
+*.iml
+tmp/
+Intern/
+*~
