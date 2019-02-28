@@ -1,12 +1,9 @@
-# vanilla-nodebb-importer
+# NodeBB to Vanilla importer
 A tool to import NodeBB/Redis data into Vanilla forums
 
 ## Attention
 
 **Development is in progress !!!**
-
-It doesn't work currently !!!
-
 
 ## Requirements
 
